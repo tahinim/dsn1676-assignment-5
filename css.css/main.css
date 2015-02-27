@@ -1,5 +1,10 @@
+.title {
+    font-size: 1.5em;
+}
+
 .list {
     list-style-type: none;
+    background-color: white;
 }
 
 body {
@@ -16,7 +21,16 @@ body {
 
 }
 
-.list {
-    background-color: white;
+.todo {
+    margin-top: .5em;
+    margin-bottom: 1em;
+    font-size: 1em;
 }
 
+.addbutton {
+    background-color: lightgrey;
+}
+
+.list added {
+    padding-right: 3em;
+}
