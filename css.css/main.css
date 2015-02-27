@@ -5,6 +5,8 @@
 .list {
     list-style-type: none;
     background-color: white;
+    font-size: .7em;
+       
 }
 
 body {
@@ -29,8 +31,18 @@ body {
 
 .addbutton {
     background-color: lightgrey;
+    padding-top: .5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: .5em;
 }
 
-.list added {
-    padding-right: 3em;
+.check {
+    background-color: #e2e2e2;
+    margin-left: 10em;
+    text-align: right;
+}
+
+.h2 {
+    font-size: 2em;
 }
