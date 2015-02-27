@@ -1,0 +1,21 @@
+.list {
+    list-style-type: none;
+}
+
+body {
+    text-align: center;
+    background-color: #e2e2e2;
+}
+
+.form {
+    background-color: #efefef;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top:1em;
+
+}
+
+.list {
+    background-color: white;
+}
+
